@@ -18,6 +18,7 @@ Simple API created using python-flask.
 
 
 API-Endpoints:
+
 /register
 /kline_1m
 /kline_5m
@@ -29,7 +30,6 @@ when the users are registered our database, API-key and API-secret-key will auto
 will send to users e-mail automatically.
 
 Restrictions:
-
 -Each user must have its own API-KEY and API-SECRET KEY.
 -Each user only make one request per minute to get data from API.
 -Each user only send registration request two times in a day.
