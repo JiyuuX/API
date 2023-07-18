@@ -20,8 +20,11 @@ Simple API created using python-flask.
 API-Endpoints:
 
 /register
+
 /kline_1m
+
 /kline_5m
+
 /force_order
 
 
