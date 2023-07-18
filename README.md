@@ -21,11 +21,13 @@ API-Endpoints:
 /kline_5m
 /force_order
 
+
 Each user must be registered our database by requesting the /register API endpoint. 
 when the users are registered our database, API-key and API-secret-key will automatically generate. Then these API-KEY and API-SECRET-KEYs
 will send to users e-mail automatically.
 
 Restrictions:
+
 -Each user must have its own API-KEY and API-SECRET KEY.
 -Each user only make one request per minute to get data from API.
 -Each user only send registration request two times in a day.
