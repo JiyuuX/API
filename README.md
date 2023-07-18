@@ -13,7 +13,9 @@ REQUEST TO API:
 
 
 In this code,
+
 Simple API created using python-flask.
+
 
 API-Endpoints:
 /register
