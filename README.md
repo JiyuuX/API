@@ -33,7 +33,7 @@ when the users are registered our database, API-key and API-secret-key will auto
 will send to users e-mail automatically.
 
 Restrictions:
--Each user must have its own API-KEY and API-SECRET KEY.
+-Each user must have its own API-KEY and API-SECRET KEY to send request.
 -Each user only make one request per minute to get data from API.
 -Each user only send registration request two times in a day.
 -Maximum value of 1000 for the data_size parameter. Users will be able to fetch data up to a maximum of 1000 records from the respective tables.
